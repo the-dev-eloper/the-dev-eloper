@@ -1,8 +1,5 @@
 ### Hello World! 👋
 
-![174857](https://www.linkedin.com/in/gokulnath-d-55734b14b/)
-
-
 <!--
 **the-dev-eloper/the-dev-eloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
