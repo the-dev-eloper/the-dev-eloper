@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, </h1>
 <h3 align="center">I'm Gokulnath, a passionate Frontend Developer from Chennai.</h3>
 
-- 🔭 I’m currently working on **React and React Native App developmet**
+- 🔭 I’m currently working on **React, React Native and Angular Application developmet**
 
 - 🌱 I’m currently learning **to contribute in React Open Source**
 
