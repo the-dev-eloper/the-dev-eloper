@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript Libraries**
 
-- 🤝 I’m looking for help with **Advanced Flutter tips**
+- 🤝 I’m looking for help with **Advanced Node.js tips**
 
 - 👨‍💻 All of my projects are available at [https://github.com/the-dev-eloper](https://github.com/the-dev-eloper)
 
