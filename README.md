@@ -1,17 +1,17 @@
 <h1 align="center">Hello World 👋, </h1>
 <h3 align="center">I'm Gokulnath, a passionate Frontend Developer from Chennai.</h3>
 
-- 🔭 I’m currently working on **React, React Native and Angular Application developmet**
+- 🔭 I’m currently working on **React, React Native, Node and NestJs**
 
 - 🌱 I’m currently learning **to contribute in React Open Source**
 
 - 👯 I’m looking to collaborate on **Javascript Libraries**
 
-- 🤝 I’m looking for help with **Advanced Node.js tips**
+- 🤝 I’m looking for help with **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/the-dev-eloper](https://github.com/the-dev-eloper)
 
-- 💬 Ask me about **JavaScript | React | React Native**
+- 💬 Ask me about **JavaScript | Typescript | React | Node**
 
 - 📫 How to reach me **imgnath28@gmail.com**
 
